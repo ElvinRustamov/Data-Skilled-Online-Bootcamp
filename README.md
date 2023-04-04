@@ -1,1 +1,1 @@
-# Data-Skilled-Online-Bootcamp
+# Data Skilled Online Bootcamp
