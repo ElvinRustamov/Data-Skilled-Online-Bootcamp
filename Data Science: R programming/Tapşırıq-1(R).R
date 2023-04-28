@@ -10,7 +10,7 @@ class(cəm)
 
 
 # 3. "Cəm" dəyərin data tipini göstər.
-class('cəm')  #output: numeric
+class('cəm')
 
 
 # 4. "Cəm" ilə adlandırılan dəyərin data tipini "integer" etmək mümkündürmü? Deyilsə səbəbi? Mümkündürsə kodu yaz.
