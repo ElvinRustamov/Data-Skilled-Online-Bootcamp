@@ -5,7 +5,7 @@ cəm = 1 + 3 + 5 + 7 + 9
 
 
 # 2. "Cəm" ilə adlandırılan dəyərin data tipini göstər.
-class(1 + 3 + 5 + 7 + 9)  #output: numeric
+class(1 + 3 + 5 + 7 + 9)
 class(cəm)
 
 
@@ -15,7 +15,7 @@ class('cəm')
 
 # 4. "Cəm" ilə adlandırılan dəyərin data tipini "integer" etmək mümkündürmü? Deyilsə səbəbi? Mümkündürsə kodu yaz.
 cəm = 1L + 3L + 5L + 7L + 9L
-typeof(cəm)
+class(cəm)
 
 #Ikinci yol:
 cəm_2 = as.integer(cəm)
