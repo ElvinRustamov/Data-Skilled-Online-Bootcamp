@@ -33,7 +33,7 @@ visual_ggplotly_2 = data %>%
   geom_boxplot() +
   labs(x = "Total population", title = "Total population", subtitle = "Boxplot") +
   scale_x_log10()
-
+visual_ggplotly_2
 visual_ggplotly_2 %>% ggplotly()
 # Boxplot ggplotly etdidke gorsenmir
 
